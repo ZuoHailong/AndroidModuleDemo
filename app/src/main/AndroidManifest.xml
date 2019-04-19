@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hailong.amd">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/x_module_common_ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/x_module_common_ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"></application>
+
+</manifest>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="x_module_common_colorTransparent">#00000000</color>
+    <!--系统默认字体色-->
+    <color name="x_module_common_colorDefaultFont">#8A000000</color>
+    <!--分割线颜色-->
+    <color name="x_module_common_colorDivider">#919499</color>
+    <!--ActionBar背景色-->
+    <color name="x_module_common_colorActionBar">#ff6461</color>
+    <!--遮罩背景色-->
+    <color name="x_module_common_colorShadeBg">#7f000000</color>
+    <!--页面背景色-->
+    <color name="x_module_common_colorPageBg">#f4f4f4</color>
+
+    <color name="x_module_common_colorPrimary">#ff6461</color>
+    <!--状态栏背景色-->
+    <color name="x_module_common_colorPrimaryDark">#ff6461</color>
+    <!--控件被选中时颜色-->
+    <color name="x_module_common_colorAccent">#ff6461</color>
+
+    <color name="x_module_common_colorWhite">#FFFFFF</color>
+
+    <color name="x_module_common_gray">#BBBBBB</color>
+    <color name="x_module_common_bg">#eeeff3</color>
+    <color name="x_module_common_colorGreen">#18bc9c</color>
+
+    <color name="x_module_common_color_ffffff">#ffffff</color>
+    <color name="x_module_common_color_000000">#000000</color>
+    <color name="x_module_common_color_B7B7B7">#B7B7B7</color>
+    <color name="x_module_common_color_d8d8d8">#d8d8d8</color>
+    <color name="x_module_common_color_333333">#333333</color>
+    <color name="x_module_common_color_323232">#323232</color>
+    <color name="x_module_common_color_dddddd">#dddddd</color>
+    <color name="x_module_common_color_ED1C22">#ED1C22</color>
+    <color name="x_module_common_color_E91B21">#E91B21</color>
+</resources>

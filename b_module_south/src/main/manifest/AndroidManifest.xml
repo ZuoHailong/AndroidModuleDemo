@@ -1,0 +1,19 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hailong.amd.south">
+
+    <!--此module单独打包apk时使用此manifest-->
+    <application
+        android:name=".SouthApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/m_module_main_ic_launcher"
+        android:label="@string/b_module_south_app_name"
+        android:theme="@style/x_module_common_AppTheme">
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
